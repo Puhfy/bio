@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: Puhfy's About Me
 ---
 
 ## About
