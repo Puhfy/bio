@@ -7,6 +7,7 @@ title: Puhfy's About Me
 Yo wassup im Puhfy. I do programming
 
 ## Projects
+- Discord Message Creator
 - Sparks
 - Koriko Client
 
